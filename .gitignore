@@ -1,0 +1,81 @@
+# Compiled object files
+*.o
+*.dll
+*.log
+*.obj
+*.exe
+*.pdb
+*.bin
+*.apk
+*.swp
+
+# Directories
+bin/
+obj/
+Debug/
+Release/
+build/
+out/
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Azure
+.terraform/
+*.azure
+*.azurite
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure DevOps
+.vs/
+.venv/
+
+# npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.*.local
+
+# By default, ASP.NET Core automatically generates these files
+wwwroot/lib/
+
+# Paket dependency manager
+paket-files/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Uncomment if necessary: .nuget/
+
+# Others
+*.vsix
+*.ncrunch*
+project.lock.json
+project.fragment.lock.json
+artifacts/
