@@ -25,7 +25,7 @@ namespace HistoricosApp.API.Extensions
                     Port = config.Port,
                     UserName = config.Username,
                     Password = config.Password,
-                    //VirtualHost = config.Username
+                    VirtualHost = config.Username
                 };
             });
 
